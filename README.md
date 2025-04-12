@@ -10,25 +10,6 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/MFLS2023/MFLS2023/main/dev_icons.png" alt="开发者全家桶 (Kāifāzhě quánjiātǒng)" width="100%">
   </p>
-  
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F83292&center=true&vCenter=true&random=false&width=600&height=70&lines=Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85;%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2%E8%80%85;%E4%BB%A3%E7%A0%81%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
-  </div>
-  
-  <p align="center">
-    <a href="https://github.com/MFLS2023">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </a>
-    <a href="https://github.com/MFLS2023">
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    </a>
-    <a href="https://github.com/MFLS2023">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </a>
-    <a href="https://github.com/MFLS2023">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </a>
-  </p>
 </div>
 
 <div align="center">

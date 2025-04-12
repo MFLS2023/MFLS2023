@@ -1,26 +1,3 @@
-<!-- 个性化标题 -->
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm MFLS2023
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  
-  <!-- 开发者全家桶图片 -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/MFLS2023/MFLS2023/main/dev_icons.png" alt="开发者全家桶 (Kāifāzhě quánjiātǒng)" width="100%">
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
-<!-- 分隔线 -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
-</div>
-
 <!-- 个人简介 -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px"> 
@@ -32,6 +9,24 @@
   我对编程充满热情，每天都在探索Java生态系统的各个方面。💻<br>
   作为初学者，我保持开放的心态，努力学习，不断进步！🚀
 </p>
+
+<!-- 分隔线 -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
+</div>
+
+<!-- 个性化标题 -->
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm MFLS2023
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
 <!-- 分隔线 -->
 <div align="center">
@@ -126,3 +121,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=MFLS2023&style=for-the-badge&color=FF6AC1&label=访问人数" alt="访问计数器" />
 </div>
+
+<!-- 开发者全家桶图片 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MFLS2023/MFLS2023/main/dev_icons.png" alt="开发者全家桶 (Kāifāzhě quánjiātǒng)" width="100%">
+</p>

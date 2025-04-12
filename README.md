@@ -1,177 +1,196 @@
-<!-- 动态标题 -->
+<!-- 顶部横幅图 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&size=40&duration=2000&pause=500&color=CA14E9&center=true&vCenter=true&random=false&width=600&height=70&lines=HELLO%2C+I'M+MFLS2023+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;JAVA+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85;%E7%83%AD%E7%88%B1%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/MFLS2023/MFLS2023/main/banner.jpg" alt="Dev Icons Banner" width="100%">
 </p>
 
-<!-- 酷炫Banner图 -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/0cad13918c4c96e9524354a2a143d94428f49ed56da63c4284e7ad542dab675b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f5a48596e36653358634f335a774b396b64392f67697068792e77656270" alt="Banner" width="50%" />
-</p>
+<!-- 个性化标题 -->
+<div align="center">
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hey there, I'm MFLS2023
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F83292&center=true&vCenter=true&random=false&width=600&height=70&lines=Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85;%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2%E8%80%85;%E4%BB%A3%E7%A0%81%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
+  </div>
+  
+  <p align="center">
+    <a href="https://github.com/MFLS2023">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    </a>
+    <a href="https://github.com/MFLS2023">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    </a>
+    <a href="https://github.com/MFLS2023">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    </a>
+    <a href="https://github.com/MFLS2023">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-<!-- 霓虹灯分隔线 -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
-<!-- 关于我 -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV0MGw2Zmk4enBrY3FveGc5ZjVxbGdjaXhxcnJkc2t3dmZ3cWI4cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IP7sarl7C5lSFCw9rG/giphy.gif" width="30px" height="30px">
+<!-- 分隔线 -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
+</div>
+
+<!-- 个人简介 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px"> 
   关于我
-</h1>
+</h2>
 
 <p align="center">
-  <b>☕ Java 后端开发初学者 | 💻 热爱编程 | 🚀 正在成长的技术爱好者</b>
+  嗨！我是一名热爱编程的Java后端开发初学者，正在构建我的技术生涯。📚<br>
+  我对编程充满热情，每天都在探索Java生态系统的各个方面。💻<br>
+  作为初学者，我保持开放的心态，努力学习，不断进步！🚀
 </p>
 
-<p align="center">
-  <a href="https://github.com/MFLS2023">
-    <img src="https://img.shields.io/badge/GitHub-MFLS2023-9745F5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MFLS2023&style=for-the-badge&color=9745F5" alt="Profile Views">
-</p>
+<!-- 分隔线 -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
+</div>
 
-<!-- 霓虹灯分隔线 -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+<!-- 技能矩阵 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"> 
+  技能矩阵
+</h2>
 
-<!-- Tech 技术栈 -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" height="30px">
-  技术栈
-</h1>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60" alt="Java"/>
-  <img src="https://img.icons8.com/color/96/000000/spring-logo.png" width="60" alt="Spring"/>
-  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="60" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/96/000000/git.png" width="60" alt="Git"/>
-  <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" width="60" alt="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/96/000000/maven.png" width="60" alt="Maven"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,idea,maven&theme=dark&perline=6" alt="Skills"/>
-</p>
-
-<!-- 霓虹灯分隔线 -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="65" height="65" />
+        <br>Spring Boot
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" width="65" height="65" />
+        <br>Maven
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- 学习进度 -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRiOTF1YTNqY3YzaGJsY2w5bmV0eW9sbG5vNWN1YWh3YXJ2bDg5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="30px" height="30px">
-  学习进度
-</h1>
-
+<h3 align="center">📊 学习进度</h3>
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://progress-bar.dev/60/?title=Java核心&width=120&color=9745F5" alt="Java核心">
-      </td>
-      <td align="center">
-        <img src="https://progress-bar.dev/40/?title=Spring&width=120&color=9745F5" alt="Spring">
-      </td>
-      <td align="center">
-        <img src="https://progress-bar.dev/35/?title=SpringBoot&width=120&color=9745F5" alt="SpringBoot">
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://progress-bar.dev/50/?title=MySQL&width=120&color=9745F5" alt="MySQL">
-      </td>
-      <td align="center">
-        <img src="https://progress-bar.dev/30/?title=MyBatis&width=120&color=9745F5" alt="MyBatis">
-      </td>
-      <td align="center">
-        <img src="https://progress-bar.dev/20/?title=并发编程&width=120&color=9745F5" alt="并发编程">
-      </td>
-    </tr>
-  </table>
+  <img src="https://progress-bar.dev/70/?title=Java基础&width=200&color=FF6AC1" />
+  <img src="https://progress-bar.dev/50/?title=Spring&width=200&color=54C5F8" />
+  <img src="https://progress-bar.dev/40/?title=SpringBoot&width=200&color=01D293" />
+  <br>
+  <img src="https://progress-bar.dev/60/?title=MySQL&width=200&color=FFD45C" />
+  <img src="https://progress-bar.dev/30/?title=MyBatis&width=200&color=2193FF" />
 </div>
 
-<!-- 霓虹灯分隔线 -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+<!-- 分隔线 -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
+</div>
 
-<!-- 统计信息 -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXoyc2hiejN4NnA0cGx6NmkycWFwNWtyNTJpdXpxOHdsMDY0OGQ1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="30px" height="30px">
+<!-- GitHub统计 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40px"> 
   GitHub 统计
-</h1>
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MFLS2023&show_icons=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9745F5&text_color=CACACA" alt="GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFLS2023&layout=compact&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=9745F5&text_color=CACACA" alt="Most Used Languages" height="170px" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MFLS2023&theme=radical&row=1&column=6&margin-w=15" alt="trophy" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MFLS2023&theme=radical&hide_border=true&background=1F222E&stroke=F85D7F&ring=9745F5&fire=F85D7F&currStreakNum=CACACA&sideNums=CACACA&currStreakLabel=9745F5&sideLabels=9745F5&dates=CACACA" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MFLS2023&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFLS2023&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<!-- 霓虹灯分隔线 -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
-<!-- 学习路线 -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWQ3MWVlM2JmaWhvdWJvdjk1NGE2MzFnYmttejcwemdkODZwOXM5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/FrFJ9YUtSNRW8IhBr1/giphy.gif" width="30px" height="30px">
-  学习路线
-</h1>
-
+<!-- 贡献统计 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a9f-4da8-9d75-31dc7ee3c71a.gif" width="500px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MFLS2023&theme=radical" alt="MFLS2023" />
 </div>
+
+<!-- 贡献图表 -->
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="活动图" src="https://github-readme-activity-graph.vercel.app/graph?username=MFLS2023&bg_color=141321&color=FF6AC1&line=54C5F8&point=01D293&area=true&hide_border=true" />
+  </a>
+</div>
+
+<!-- 分隔线 -->
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
+</div>
+
+<!-- 学习路线图 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="40px"> 
+  学习路线图
+</h2>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <strong>✅ 已掌握:</strong>
+        <h3 align="center">✅ 已掌握</h3>
         <ul>
-          <li>Java基础语法</li>
+          <li>Java 核心语法</li>
           <li>面向对象编程</li>
+          <li>异常处理</li>
           <li>集合框架基础</li>
-          <li>基本SQL查询</li>
+          <li>基本的 SQL 查询</li>
         </ul>
       </td>
       <td>
-        <strong>🔄 正在学习:</strong>
+        <h3 align="center">🔄 正在学习</h3>
         <ul>
-          <li>Spring框架</li>
-          <li>MySQL进阶</li>
-          <li>JDBC操作</li>
-          <li>Maven构建工具</li>
+          <li>Spring 核心</li>
+          <li>Spring Boot 入门</li>
+          <li>MySQL 高级特性</li>
+          <li>JDBC 与连接池</li>
+          <li>Maven 依赖管理</li>
         </ul>
       </td>
       <td>
-        <strong>🔜 计划学习:</strong>
+        <h3 align="center">🔜 计划学习</h3>
         <ul>
-          <li>SpringBoot</li>
-          <li>MyBatis</li>
-          <li>RESTful API</li>
-          <li>并发编程</li>
+          <li>MyBatis ORM框架</li>
+          <li>RESTful API设计</li>
+          <li>Spring Security</li>
+          <li>多线程与并发</li>
+          <li>设计模式</li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- 霓虹灯分隔线 -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
-<!-- 活动图表 -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2ajlncnVvZjFsZHM2cXBjeHV5aTNiNDcwOWNnaWQxbTFjbDFxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LOnt6uqjD9OexmQJRB/giphy.gif" width="30px" height="30px">
-  活动图表
-</h1>
-
+<!-- 分隔线 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MFLS2023&theme=rogue&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="98%" />
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
 </div>
 
-<!-- 霓虹灯分隔线 -->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
-<!-- 结束 -->
+<!-- 结束语 -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwaTZ2NmgxYnUzNnR2aDc0b2hxc2FhMXZnbDYwZjZvNGJ1emFrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" />
+
+  <h3>谢谢访问我的主页！让我们一起在代码的世界里成长！💻✨</h3>
   
-  <p>感谢访问我的GitHub主页！欢迎与我一起探索Java后端开发的奇妙世界！</p>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="350">
+  <img src="https://komarev.com/ghpvc/?username=MFLS2023&style=for-the-badge&color=FF6AC1&label=访问人数" alt="访问计数器" />
 </div>

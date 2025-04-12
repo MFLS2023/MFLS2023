@@ -1,15 +1,15 @@
-<!-- 顶部横幅图 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MFLS2023/MFLS2023/main/banner.jpg" alt="Dev Icons Banner" width="100%">
-</p>
-
 <!-- 个性化标题 -->
 <div align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Hey there, I'm MFLS2023
+    I'm MFLS2023
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  
+  <!-- 开发者全家桶图片 -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/MFLS2023/MFLS2023/main/dev_icons.png" alt="开发者全家桶 (Kāifāzhě quánjiātǒng)" width="100%">
+  </p>
   
   <div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F83292&center=true&vCenter=true&random=false&width=600&height=70&lines=Java+%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85;%E6%8A%80%E6%9C%AF%E6%8E%A2%E7%B4%A2%E8%80%85;%E4%BB%A3%E7%A0%81%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
@@ -51,55 +51,6 @@
   我对编程充满热情，每天都在探索Java生态系统的各个方面。💻<br>
   作为初学者，我保持开放的心态，努力学习，不断进步！🚀
 </p>
-
-<!-- 分隔线 -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
-</div>
-
-<!-- 技能矩阵 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40px"> 
-  技能矩阵
-</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="65" height="65" />
-        <br>Spring Boot
-      </td>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Maven" width="65" height="65" />
-        <br>Maven
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- 学习进度 -->
-<h3 align="center">📊 学习进度</h3>
-<div align="center">
-  <img src="https://progress-bar.dev/70/?title=Java基础&width=200&color=FF6AC1" />
-  <img src="https://progress-bar.dev/50/?title=Spring&width=200&color=54C5F8" />
-  <img src="https://progress-bar.dev/40/?title=SpringBoot&width=200&color=01D293" />
-  <br>
-  <img src="https://progress-bar.dev/60/?title=MySQL&width=200&color=FFD45C" />
-  <img src="https://progress-bar.dev/30/?title=MyBatis&width=200&color=2193FF" />
-</div>
 
 <!-- 分隔线 -->
 <div align="center">

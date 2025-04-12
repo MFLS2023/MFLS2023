@@ -50,10 +50,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFLS2023&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<!-- 贡献统计和活动图放在同一行 -->
+<!-- 贡献统计和活动图以4:6比例放在同一行 -->
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MFLS2023&theme=radical" alt="MFLS2023" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MFLS2023&bg_color=141321&color=FF6AC1&line=54C5F8&point=01D293&area=true&hide_border=true" alt="活动图" />
+  <img width="39%" src="https://github-readme-streak-stats.herokuapp.com/?user=MFLS2023&theme=radical" alt="MFLS2023" />
+  <img width="59%" src="https://github-readme-activity-graph.vercel.app/graph?username=MFLS2023&bg_color=141321&color=FF6AC1&line=54C5F8&point=01D293&area=true&hide_border=true" alt="活动图" />
 </div>
 
 <!-- 

@@ -5,9 +5,9 @@
 </h2>
 
 <p align="center">
-  嗨！我是一名热爱编程的Java后端开发初学者，正在构建我的技术生涯。📚<br>
-  我对编程充满热情，每天都在探索Java生态系统的各个方面。💻<br>
-  作为初学者，我保持开放的心态，努力学习，不断进步！🚀
+  嗨！我是一名热爱编程的Java后端开发初学者，目前大二在读。📚<br>
+  平常喜欢编程、AI探索、跑步、阅读、骑行、下棋、拼积木、上网与人交流。💻<br>
+  如果你对开发、认知、政治、经济、金融、运动、生命科学、哲学、玄学等感兴趣，欢迎来交流！🚀
 </p>
 
 <!-- 分隔线 -->
@@ -24,9 +24,11 @@
   </h1>
 </div>
 
+<!-- 贪吃蛇动画 - 已注释
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
+-->
 
 <!-- 分隔线 -->
 <div align="center">
@@ -44,22 +46,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MFLS2023&theme=radical&row=1&column=6&margin-w=15" alt="trophy" />
 </div>
 
-<!-- 主要统计卡片并排放置，用空格或   分隔 -->
+<!-- 主要统计卡片并排放置，用空格或   分隔 -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MFLS2023&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   <!-- 添加一些空格 -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MFLS2023&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   <!-- 添加一些空格 -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFLS2023&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-<!-- 贡献统计 Streak 保持居中 -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MFLS2023&theme=radical" alt="MFLS2023" />
-</div>
-
-<!-- 贡献图表 保持居中 -->
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="活动图" src="https://github-readme-activity-graph.vercel.app/graph?username=MFLS2023&bg_color=141321&color=FF6AC1&line=54C5F8&point=01D293&area=true&hide_border=true" />
-  </a>
+<!-- 贡献统计和活动图放在同一行 -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MFLS2023&theme=radical" alt="MFLS2023" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MFLS2023&bg_color=141321&color=FF6AC1&line=54C5F8&point=01D293&area=true&hide_border=true" alt="活动图" />
 </div>
 
 <!-- 

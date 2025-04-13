@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="README_en.md">English Version</a> | 中文版
+</p>
+<hr/>
+
 <!-- 个人简介与标题并排 -->
 <table width="100%" border="0" style="border: none; border-collapse: collapse;">
   <tr>

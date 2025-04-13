@@ -18,13 +18,13 @@
       </p>
     </td>
     <td width="40%" valign="middle" align="center" style="border: none;">
-      <h1>
+      <h1 style="margin-top: 0;">
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
         I'm MFLS2023
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       </h1>
       <p align="center">
-        📧 <a href="mailto:free@shareapi.me">free@shareapi.me</a>
+        联系我：📧 <a href="mailto:free@shareapi.me">free@shareapi.me</a>
       </p>
     </td>
   </tr>

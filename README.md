@@ -23,6 +23,9 @@
         I'm MFLS2023
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       </h1>
+      <p align="center">
+        📧 <a href="mailto:free@shareapi.me">free@shareapi.me</a>
+      </p>
     </td>
   </tr>
 </table>
@@ -33,7 +36,7 @@
   <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
 </div>
 
-<!-- 个性化标题 - 已移动到上方与“关于我”并列 -->
+<!-- 个性化标题 - 已移动到上方与"关于我"并列 -->
 <!--
 <div align="center">
   <h1>

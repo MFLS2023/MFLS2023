@@ -1,155 +1,84 @@
 <p align="right">
-  <a href="README_en.md">English Version</a> | 中文版
+  <a href="README_en.md">English Version</a> | <b>中文版</b>
 </p>
-<hr/>
 
-<!-- 个人简介与标题并排 -->
-<table width="100%" border="0" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td width="60%" valign="top" style="border: none;">
-      <h2 align="center">
-        <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px">
-        关于我
-      </h2>
-      <p align="center">
-        嗨！我是一名热爱编程的Java后端开发初学者，目前大二在读。📚<br>
-        平常喜欢编程、AI探索、跑步、阅读、骑行、下棋、拼积木、上网与人交流。💻<br>
-        如果你对开发、认知、政治、经济、金融、运动、生命科学、哲学、玄学等感兴趣，欢迎来交流！🚀
-      </p>
-    </td>
-    <td width="40%" valign="middle" align="center" style="border: none;">
-      <h1 style="margin-top: 0;">
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-        I'm MFLS2023
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      </h1>
-      <p align="center">
-        联系我：📧 <a href="mailto:free@shareapi.me">free@shareapi.me</a>
-      </p>
-    </td>
-  </tr>
-</table>
+# 嗨，我是 MFLS2023 👋
 
+<p>
+  🚀 聚焦于 <b>AI Agent 协作</b>、<b>现代全栈工程</b> 与 <b>量化交易工具</b> 的开发者。<br>
+  💡 兼顾实用主义工程落地与前沿技术探索，热衷于构建高效的自动化工具与系统。
+</p>
 
-<!-- 分隔线 -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
-</div>
+<p>
+  <a href="mailto:free@shareapi.me"><img src="https://img.shields.io/badge/Email-free%40shareapi.me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/github/stars/MFLS2023?style=flat-square&color=yellow&label=Total%20Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/MFLS2023?label=Followers&style=flat-square&color=blue" alt="Followers" />
+</p>
 
-<!-- 个性化标题 - 已移动到上方与"关于我"并列 -->
-<!--
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    I'm MFLS2023
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
--->
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
+### 🌟 精选开源项目 (Featured Projects)
 
-<!-- 分隔线 -->
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
-</div>
+| 项目名称 | 说明 | 技术栈 |
+| :--- | :--- | :--- |
+| ⭐️ **[Google AI Studio Gemini Key Scripts](https://github.com/MFLS2023/Google-AI-Studio-Gemini-Key-Scripts)** | 批量自动化 GCP 项目创建与 Gemini API Key 提取脚本（300★） | `JavaScript` `GCP` `Gemini API` |
+| 📊 **[pf-roi-calculator](https://github.com/MFLS2023/pf-roi-calculator)** | Prop Firm 自营交易机构 ROI 评估计算器（离线 PWA + Tauri 桌面端） | `TypeScript` `Tauri` `PWA` |
+| 🤖 **[larkpilot](https://github.com/MFLS2023/larkpilot)** | 结合大模型与飞书平台的自动化办公协作机器人 | `Python` `Lark API` `LLM` |
+| 🛡️ **[CFEmailRouteCreator](https://github.com/MFLS2023/CFEmailRouteCreator)** | 基于控制台的 Cloudflare Email Routing 批量转发自动化工具 | `JavaScript` `Cloudflare` |
 
-<!-- GitHub统计 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40px">
-  GitHub 统计
-</h2>
+---
 
-<!-- Trophy 保持居中 -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MFLS2023&theme=radical&row=1&column=6&margin-w=15" alt="trophy" />
-</div>
+### 🛠️ 技术生态与工具箱 (Tech Stack)
 
-<!-- 主要统计卡片和贡献统计并排放置 -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MFLS2023&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>   <!-- 添加一些空格 -->
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFLS2023&layout=compact&langs_count=7&theme=radical"/> --> <!-- Most Used Languages 已注释 -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MFLS2023&theme=radical" alt="MFLS2023" /> <!-- Streak Stats 已移动到此处 -->
-</div>
+#### 编程语言与核心平台
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+</p>
 
-<!-- 活动图单独一行 -->
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MFLS2023&bg_color=141321&color=FF6AC1&line=54C5F8&point=01D293&area=true&hide_border=true" alt="活动图" /> <!-- Activity Graph 单独一行，宽度100% -->
-</div>
+#### 应用架构与生态
+<p>
+  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+</p>
 
-<!--
-以下是学习路线图部分，目前已注释隐藏
--->
-<!-- 分隔线 -->
-<!--
-<div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
-</div>
--->
-<!-- 学习路线图 -->
-<!--
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="40px">
-  学习路线图
-</h2>
+#### 数据存储与基础设施
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### 📌 关注领域与交流
+
+- 🤖 **AI & 自动化**：Agent 工作流编排、MCP 生态扩展、企业级通讯协同工具
+- 📈 **金融与量化**：自营交易公司（Prop Firm）机制研究、量化策略设计、资产配置模型
+- 🧠 **跨界认知**：哲学、认知心理学、系统动力学
+- 🏃 **生活充能**：长跑、公路骑行、阅读、积木搭建
+
+---
+
+### 📊 GitHub 数据看板
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">✅ 已掌握</h3>
-        <ul>
-          <li>Java 核心语法</li>
-          <li>面向对象编程</li>
-          <li>异常处理</li>
-          <li>集合框架基础</li>
-          <li>基本的 SQL 查询</li>
-        </ul>
-      </td>
-      <td>
-        <h3 align="center">🔄 正在学习</h3>
-        <ul>
-          <li>Spring 核心</li>
-          <li>Spring Boot 入门</li>
-          <li>MySQL 高级特性</li>
-          <li>JDBC 与连接池</li>
-          <li>Maven 依赖管理</li>
-        </ul>
-      </td>
-      <td>
-        <h3 align="center">🔜 计划学习</h3>
-        <ul>
-          <li>MyBatis ORM框架</li>
-          <li>RESTful API设计</li>
-          <li>Spring Security</li>
-          <li>多线程与并发</li>
-          <li>设计模式</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MFLS2023&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://streak-stats.demolab.com/?user=MFLS2023&theme=radical" alt="GitHub Streak" />
 </div>
--->
-<!--
--->
 
-<!-- 分隔线 -->
 <div align="center">
-  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Divider" width="100%">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MFLS2023&bg_color=141321&color=FF6AC1&line=54C5F8&point=01D293&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-<!-- 结束语 -->
-<div align="center">
-  <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhwaTZ2NmgxYnUzNnR2aDc0b2hxc2FhMXZnbDYwZjZvNGJ1emFrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" /> --> <!-- 猫猫图片已删除 -->
+---
 
-  <h3>谢谢访问我的主页！让我们一起在代码的世界里成长！💻✨</h3>
-
-  <!-- <img src="https://komarev.com/ghpvc/?username=MFLS2023&style=for-the-badge&color=FF6AC1&label=访问人数" alt="访问计数器" /> --> <!-- 访问人数已删除 -->
-</div>
-
-<!-- 开发者全家桶图片 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MFLS2023/MFLS2023/main/dev_icons.png" alt="开发者全家桶 (Kāifāzhě quánjiātǒng)" width="100%">
+  欢迎通过邮件 <a href="mailto:free@shareapi.me">free@shareapi.me</a> 或 Issue 与我交流协作！✨
 </p>
